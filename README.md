@@ -1,5 +1,8 @@
-# joke-page
+# Joke Page
 
+## Description
+
+A site made in VueJs that tells programming jokes
 ## Project setup
 ```
 yarn install
@@ -10,6 +13,10 @@ yarn install
 yarn serve
 ```
 
+## Test
+```
+yarn run test
+```
 ### Compiles and minifies for production
 ```
 yarn build
