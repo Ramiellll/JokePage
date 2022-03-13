@@ -2,7 +2,7 @@
 
 ## Description
 
-A site made in VueJs that tells programming jokes
+A site made in VueJs that tells jokes
 ## Project setup
 ```
 yarn install
